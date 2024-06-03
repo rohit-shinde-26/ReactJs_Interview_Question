@@ -36,3 +36,9 @@
 
 ## 12. How to avoid re-rendering in react
 #### 1. Replacing useState() with useRef() hook. <br/> 2. Using Reselect library to create Memoized selectors <br/> 3. Using SWR a React Hooks library for data fetching <br/> 4. Memoization using useMemo() and useCallback()Hooks
+
+## 13. What is package.json 
+#### It is metadata file in nodeJs project that describe the project dependencies , scripts,configuration and other details.
+
+## 14. How to pass props parent component to child component in React
+#### Embedded child component in parent component and gives value as an argument and access in child component
