@@ -18,3 +18,21 @@
 
 ## 6. What is React Router
 #### React Router is React library that enables dynamic navigation without refreshing the entire web pages <br/> It creates fast and interactive Single page application <br/> Developers can build user friendly web apps by rendering specific components when user click on links
+
+## 7. What is fragments in React
+#### Fragment in React is used to combine the child nodes and render without creating an extra parent Node
+
+## 8. What is controlled and uncontrolled components in react
+#### In a controlled component react, state handles all the form data, whereas, in an uncontrolled component, the HTML form element data is managed by only the DOM
+
+## 9. Features of react
+#### JSX <br/> Virtual DOM <br/> Performance <br/> Conditional Statement <br/> Component Based <br/> Simplicity
+
+## 10. What is props
+#### Props is a special keyword in React that stands for properties and is used for passing data from one component to another.
+
+## 11. What is state
+#### The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.
+
+## 12. How to avoid re-rendering in react
+#### 1. Replacing useState() with useRef() hook. <br/> 2. Using Reselect library to create Memoized selectors <br/> 3. Using SWR a React Hooks library for data fetching <br/> 4. Memoization using useMemo() and useCallback()Hooks
